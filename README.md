@@ -20,7 +20,6 @@ A simple and clean **Task Management Application** built with **React** and **Re
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/task-management-app.git
 cd task-management-app
